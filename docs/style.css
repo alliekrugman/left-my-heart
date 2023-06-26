@@ -8,16 +8,6 @@
     src: url('PostoniWide-Regular.woff2') format('woff2')
 }
 
-@font-face {
-    font-family: 'Libre Franklin';
-    src: url('LibreFranklin-VariableFont_wght.ttf') format('.ttf')
-}
-
-@font-face {
-    font-family: 'Libre Franklin';
-    src: url('LibreFranklin-VariableFont_wght.ttf') format('.ttf')
-}
-
 h1 {
     font-family: "Postoni-Bold";
     font-weight: 700;
@@ -43,7 +33,7 @@ h2.is-center {
 h3 {
     /* font-size: 23.8px;
     line-height: 33.32px; */
-    font-family: "Libre Franklin";    
+    font-family: "Geneva";    
     font-size: 19.25px;
     line-height: 23.1px;
     margin-top: 0;
@@ -53,7 +43,7 @@ h3 {
 h4 {
     font-size: 20px;
     margin-bottom: 16px;
-    font-family: "Libre Franklin";
+    font-family: "Geneva";
 }
 
 a {
@@ -78,7 +68,7 @@ a:hover {
 }
 
 .article__text span {
-    font-family: "Libre Franklin";
+    font-family: "Geneva";
     border: none;
 }
 
@@ -95,7 +85,7 @@ a:hover {
 
 .label {
     font-size: 14px;
-    font-family: "Libre Franklin";
+    font-family: "Geneva";
     font-weight: 700;
     text-transform: uppercase;
     padding-bottom: 4px;
@@ -107,14 +97,14 @@ a:hover {
 
 .subhed {
     font-size: 20px;
-    font-family: "Libre Franklin";
+    font-family: "Geneva";
     padding-bottom: 4px;
     margin-bottom: 16px;
     color: #111;
 }
 
 .byline {
-    font-family: "Libre Franklin";
+    font-family: "Geneva";
     font-size: 16px;
     margin-bottom: 4px;
 }
@@ -127,7 +117,7 @@ span {
 .date {
     color: #666;
     font-size: 14px;
-    font-family: "Libre Franklin";
+    font-family: "Geneva";
     margin-bottom: 32px;
 }
 
@@ -136,7 +126,7 @@ img {
 }
 
 .image__caption {
-    font-family: "Libre Franklin";
+    font-family: "Geneva";
     line-height: 1.25;
     color: #666;
     font-size: 14px;
@@ -146,7 +136,7 @@ img {
 .subtitle {
     font-size: 17.5px;
     line-height: 21px;
-    font-family: "Libre Franklin";
+    font-family: "Geneva";
     margin-top: 0;
     margin-bottom: 10px;
 }
@@ -154,7 +144,7 @@ img {
 .caption {
     font-size: 14px;
     line-height: 16.8px;
-    font-family: "Libre Franklin";
+    font-family: "Geneva";
 }
 
 iframe {
