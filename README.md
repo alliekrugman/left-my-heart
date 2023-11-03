@@ -1,4 +1,4 @@
-**Organ donation needs a bigger heart **
+**Organ donation needs a bigger heart**
 
 
 *What I aimed to accomplish*: This project explores inequity in organ donation in the U.S. with data from the Organ Procurement and Transplantation Network (OPTN).
